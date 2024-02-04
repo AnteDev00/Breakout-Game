@@ -3,9 +3,9 @@
 My attempt at recreating legendary 2d arcade game in C++ using only SDL and helper libraries.
 
 ## Key principles used:
-- Object Oriented aproach
+- Using Object Oriented aproach
 - Using SOLID priciples
-- Using fundemental game components
+- Using fundemental game components (game loop etc.)
 #
 ## Features
 - 2D Phyiscs System
@@ -13,7 +13,7 @@ My attempt at recreating legendary 2d arcade game in C++ using only SDL and help
 - Level System (via XML files)
 - etc.
 #
-## Libraries used:
+## Dependencies:
 - **SDL2**       
 - **SDL2_image** 
 - **SDL2_mixer** 
