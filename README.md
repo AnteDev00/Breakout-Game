@@ -1,18 +1,11 @@
 # Breakout
 
-My attempt at recreating legendary 2d arcade game in C++ using only SDL and helper libraries.
+My attempt at recreating legendary game Breakout, in C++ using SDL 2.0.
 
-## Key principles used:
-- Using Object Oriented aproach
-- Using SOLID priciples
-- Using fundemental game components (game loop etc.)
 #
-## Features
-- 2D Phyiscs System
-- UI System
-- Level System (via XML files)
-- etc.
+![image](https://github.com/AnteDev00/Breakout/assets/151842550/097db566-f1dd-4473-8c53-7d90fc85f023)
 #
+
 ## Dependencies:
 - **SDL2**       
 - **SDL2_image** 
@@ -21,7 +14,19 @@ My attempt at recreating legendary 2d arcade game in C++ using only SDL and help
 - **TinyXML2**
 
 #
-![image](https://github.com/AnteDev00/Breakout/assets/151842550/097db566-f1dd-4473-8c53-7d90fc85f023)
+
+## Features:
+- 2D Phyiscs System
+- UI System
+- Level System (via XML files)
+- etc.
+#
+
+## Key programing principles:
+- Object Oriented aproach
+- SOLID priciples
+- Fundemental game components (game loop etc.)
+
 #
 
 ## Credits:
