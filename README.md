@@ -10,7 +10,7 @@ My attempt at recreating legendary 2d arcade game: Breakout.
 - **TinyXML2**
 
 #
-![image](https://github.com/AnteDev00/Breakout/assets/151842550/69da578f-a48b-47d1-85f6-77c5021122ad)
+![image](https://github.com/AnteDev00/Breakout/assets/151842550/1c758ff7-6deb-46d7-b5fe-2135717ed008)
 #
 
 ## Credits:
