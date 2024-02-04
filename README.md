@@ -2,11 +2,15 @@
 
 My attempt at recreating legendary 2d arcade game in C++ using only SDL and helper libraries.
 
+## Key principles used:
+- Object Oriented aproach
+- Using SOLID priciples
+- Using fundemental game components
+
 ## Features
-- Control over game loop
-- Level loading from XML
-- Specfiying brick types usich such XML
 - 2D Phyiscs
+- UI 
+- Level System (via XML files)
 - etc.
 
 ## Libraries used:
@@ -17,7 +21,7 @@ My attempt at recreating legendary 2d arcade game in C++ using only SDL and help
 - **TinyXML2**
 
 #
-![image](https://github.com/AnteDev00/Breakout/assets/151842550/1c758ff7-6deb-46d7-b5fe-2135717ed008)
+![image](https://github.com/AnteDev00/Breakout/assets/151842550/d8bbd79c-5d60-45d6-a309-a20884e0ed51)
 #
 
 ## Credits:
