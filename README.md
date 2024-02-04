@@ -6,13 +6,13 @@ My attempt at recreating legendary 2d arcade game in C++ using only SDL and help
 - Object Oriented aproach
 - Using SOLID priciples
 - Using fundemental game components
-
+#
 ## Features
 - 2D Phyiscs System
 - UI System
 - Level System (via XML files)
 - etc.
-
+#
 ## Libraries used:
 - **SDL2**       
 - **SDL2_image** 
