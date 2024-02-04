@@ -8,8 +8,8 @@ My attempt at recreating legendary 2d arcade game in C++ using only SDL and help
 - Using fundemental game components
 
 ## Features
-- 2D Phyiscs
-- UI 
+- 2D Phyiscs System
+- UI System
 - Level System (via XML files)
 - etc.
 
@@ -21,7 +21,7 @@ My attempt at recreating legendary 2d arcade game in C++ using only SDL and help
 - **TinyXML2**
 
 #
-![image](https://github.com/AnteDev00/Breakout/assets/151842550/d8bbd79c-5d60-45d6-a309-a20884e0ed51)
+![image](https://github.com/AnteDev00/Breakout/assets/151842550/097db566-f1dd-4473-8c53-7d90fc85f023)
 #
 
 ## Credits:
