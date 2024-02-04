@@ -1,6 +1,6 @@
 # Breakout
 
-A C++ implementation of the legendary game Breakout using SDL 2.0.
+My attempt at recreating legendary game Breakout in C++ using SDL 2.0.
 
 #
 ![image](https://github.com/AnteDev00/Breakout/assets/151842550/097db566-f1dd-4473-8c53-7d90fc85f023)
@@ -19,6 +19,7 @@ A C++ implementation of the legendary game Breakout using SDL 2.0.
 - 2D Physics System
 - UI System
 - Level System (via XML files)
+- Brick System
 - and more...
 #
 
