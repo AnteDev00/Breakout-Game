@@ -1,6 +1,13 @@
 # Breakout
 
-My attempt at recreating legendary 2d arcade game: Breakout.
+My attempt at recreating legendary 2d arcade game in C++ using only SDL and helper libraries.
+
+## Features
+- Control over game loop
+- Level loading from XML
+- Specfiying brick types usich such XML
+- 2D Phyiscs
+- etc.
 
 ## Libraries used:
 - **SDL2**       
