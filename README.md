@@ -1,5 +1,6 @@
 # Breakout
 
+## Project description:
 My attempt at recreating legendary game Breakout in C++ using SDL 2.0.
 
 #
