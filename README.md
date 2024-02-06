@@ -39,7 +39,7 @@ If you have any questions, please reach out at ante-piskovic@hotmail.com
 
 ## Licence
 - Sound effects - From [mixkit.co](https://mixkit.co/) and their [licence](https://mixkit.co/license/#sfxFree) applies
-- Font - Seperate licence in its folder
+- Font - [Licence](Assets/Fonts/NES_Chimera/licence.txt)
 - Everything Else - *INSERT LICENCE*
 
 ## Disclaimer
