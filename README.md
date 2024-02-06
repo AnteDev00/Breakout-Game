@@ -32,7 +32,8 @@ Here's what I managed to create.
 - SOLID Principles
 #
 ## Credits:
-NES Chimera Font by [Brian Kramer](https://www.pkeod.com/).
+- NES Chimera Font by [Brian Kramer](https://www.pkeod.com/).
+- Sounds From [mixkit.co](https://mixkit.co/free-sound-effects/)
 #
 ## Support
 If you have any questions, please reach out at ante-piskovic@hotmail.com
