@@ -41,7 +41,7 @@ If you have any questions, please reach out at ante-piskovic@hotmail.com
 ## Licence
 - [Sound effects licence](https://mixkit.co/license/#sfxFree)
 - [Font licence](/Assets/Fonts/NES-Chimera/license.txt)
-- [Everything Else - CC BY-NC-SA 4.0 DEED ](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- [Everything Else - CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 #
 ## Disclaimer
 Sounds used from https://mixkit.co are used for educational purposes and their inclusion in this project is only for those purposes.
