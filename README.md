@@ -1,9 +1,12 @@
 # Breakout
 
 ## Project description:
-My attempt at learn how games are made from 0 previous knowledge.  
-I decided to try recreate legendary game Breakout in C++ using SDL 2.0.  
-Here is the reuslt.  
+My attempt at learn how games are made from 0 previous knowledge.
+
+I decided to try recreate legendary game Breakout in C++ using SDL 2.0.
+
+Here is the reuslt.
+
 
 #
 ![image](https://github.com/AnteDev00/Breakout/assets/151842550/097db566-f1dd-4473-8c53-7d90fc85f023)
