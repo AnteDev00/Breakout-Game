@@ -39,9 +39,9 @@ If you have any questions, reach out at ante-piskovic@hotmail.com
 - Sounds effect from: [mixkit.co](https://mixkit.co/free-sound-effects/)
 #
 ## Licence
-- Sound effects - Licensed under [licence](https://mixkit.co/license/#sfxFree)
-- Font - Licensed under [licence.txt](/Assets/Fonts/NES-Chimera/license.txt)
-- Everything Else - Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+- **Sound effects** - Licensed with [licence](https://mixkit.co/license/#sfxFree)
+- **Font** - Licensed with [licence.txt](/Assets/Fonts/NES-Chimera/license.txt)
+- **Everything Else** - Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 #
-## Disclaimer
-Sounds used from https://mixkit.co are used for educational purposes and their inclusion in this project is only for those purposes.
+## Disclaimer (regarding to Sound Effects' licence)
+Sounds used from https://mixkit.co are **only** used for educational purposes, and their inclusion in this project is **only** for those purposes.
