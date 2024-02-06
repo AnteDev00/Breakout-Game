@@ -8,7 +8,7 @@ I decided to try recreate legendary game Breakout in C++ using SDL 2.0.
 Here is the reuslt.
 
 
-#
+## Screenshot
 ![image](https://github.com/AnteDev00/Breakout/assets/151842550/097db566-f1dd-4473-8c53-7d90fc85f023)
 #
 
@@ -32,9 +32,12 @@ Here is the reuslt.
 ## Key Programming Principles:
 - Object Oriented Approach
 - SOLID Principles
-- Fundamental Game Components (e.g., game loop)
 
-#
+## Support
+
+## Licence
+- Font - Seperate licence in its folder
+- Everything Else - *INSERT LICENCE*
 
 ## Credits:
 NES Chimera Font by [Brian Kramer](https://www.pkeod.com/).
