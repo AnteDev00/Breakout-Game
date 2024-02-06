@@ -31,12 +31,12 @@ Here's what I managed to create.
 - Object Oriented Approach
 - SOLID Principles
 #
-## Credits:
-- NES Chimera Font by [Brian Kramer](https://www.pkeod.com/).
-- Sounds From [mixkit.co](https://mixkit.co/free-sound-effects/)
-#
 ## Support
 If you have any questions, please reach out at ante-piskovic@hotmail.com
+#
+## Credits:
+- Font by: [Brian Kramer](https://www.pkeod.com/).
+- Sounds effect from: [mixkit.co](https://mixkit.co/free-sound-effects/)
 #
 ## Licence
 - [Sound effects licence](https://mixkit.co/license/#sfxFree)
