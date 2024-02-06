@@ -38,9 +38,9 @@ NES Chimera Font by [Brian Kramer](https://www.pkeod.com/).
 If you have any questions, please reach out at ante-piskovic@hotmail.com
 
 ## Licence
-- Sound effects - From [mixkit.co](https://mixkit.co/) and their [licence](https://mixkit.co/license/#sfxFree) applies
-- Font - [Licence](/Assets/Fonts/NES-Chimera/license.txt)
-- Everything Else - *INSERT LICENCE*
+- [Sound effects licence](https://mixkit.co/license/#sfxFree)
+- [Font licence](/Assets/Fonts/NES-Chimera/license.txt)
+- [Everything Else - CC BY-NC-SA 4.0 DEED ](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Disclaimer
-Sounds used from https://mixkit.co are used for educational purposes and their inclusion in this project is for those purposes.
+Sounds used from https://mixkit.co are used for educational purposes and their inclusion in this project is only for those purposes.
