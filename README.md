@@ -1,7 +1,9 @@
 # Breakout
 
 ## Project description:
-My attempt at recreating legendary game Breakout in C++ using SDL 2.0.
+My attempt at learn how games are made from 0 previous knowledge.
+I decided to try recreate legendary game Breakout in C++ using SDL 2.0.
+Here is the reuslt.
 
 #
 ![image](https://github.com/AnteDev00/Breakout/assets/151842550/097db566-f1dd-4473-8c53-7d90fc85f023)
@@ -18,9 +20,9 @@ My attempt at recreating legendary game Breakout in C++ using SDL 2.0.
 
 ## Features:
 - 2D Physics System
+- Sound System
 - UI System
 - Level System (via XML files)
-- Brick System
 - and more...
 #
 
