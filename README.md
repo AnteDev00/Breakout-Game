@@ -32,7 +32,7 @@ Here's what I managed to create.
 - SOLID Principles
 #
 ## Support
-If you have any questions, please reach out at ante-piskovic@hotmail.com
+If you have any questions, reach out at ante-piskovic@hotmail.com
 #
 ## Credits:
 - Font by: [Brian Kramer](https://www.pkeod.com/)
