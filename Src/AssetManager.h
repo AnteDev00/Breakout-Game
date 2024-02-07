@@ -11,6 +11,7 @@
 
 #include "SDL_ttf.h"
 
+// Helps us manage anything related to assets 
 class AssetManager
 {
 public:

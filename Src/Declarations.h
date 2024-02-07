@@ -1,13 +1,13 @@
 #pragma once
 
-class BrickManager;
-class Ball;
-class Level;
-class Player;
-class UI;
-class Object;
 class Breakout;
+class Level;
+class BrickManager;
 class AssetManager;
+class Object;
+class Player;
+class Ball;
+class UI;
 
 class SolidBrick;
 class SolidBrickType;

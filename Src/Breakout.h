@@ -9,6 +9,7 @@
 #include "Level.h"
 #include "Object.h"
 #include "Player.h"
+#include "Ball.h"
 
 class Breakout
 {

@@ -160,7 +160,7 @@ void Breakout::OnUpdate()
 // Renders game
 void Breakout::OnRender()
 {
-	SDL_SetRenderDrawColor(m_Renderer, 25, 25, 25, 0); // BackGround color
+	SDL_SetRenderDrawColor(m_Renderer, 35, 35, 40, 0); // BackGround color
 	SDL_RenderClear(m_Renderer); // "Clears" the screen with a BG color
 	
 	m_Level->OnRender(); 

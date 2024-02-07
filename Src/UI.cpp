@@ -18,7 +18,7 @@ UI::UI(const Level& _Level, const std::string& _FontPath)
 	SDL_Rect levelRect = _Level.GetBoundingBox();
 
 	// Position Score
-	m_ScoreRect = { levelRect.x -25, levelRect.y + levelRect.h + 100, 0, 0 };
+	m_ScoreRect = { levelRect.x -25, levelRect.y + levelRect.h + 50 , 0, 0 };
 	AssetManager::SetSizeFromTexure(m_ScoreTexture, m_ScoreRect);
 
 	// Position Lives

@@ -7,6 +7,7 @@
 #include <iostream>
 #include <vector>
 
+// Helps us manage brick instances and brick types
 class BrickManager
 {
 public:

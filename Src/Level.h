@@ -28,13 +28,13 @@ private:
     void SetLevelRect(const int& _ScreenWidth, const int& _ScreenHeight);
 	void SetLevelBoundingBox();
 private:
-    // Data
+    // LevelData
 	SDL_Rect m_Rect; // Level Rect
 	SDL_Rect m_BoundingBox; // Collision detection
 	SDL_Texture* m_BoardTexture; // Level Texture
     Mix_Chunk* m_HitSound; // Wall hit sound
 private:
-    // Filepaths
+    // Level Filepath
 	std::string m_BoardTexturePath; // Level Texture Path
 private:
     // Object data
