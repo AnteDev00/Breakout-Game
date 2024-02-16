@@ -15,7 +15,7 @@ Here's what I managed to create.
 1. Clone the repository
 2. Build Solution in Visual Studio
 3. Copy files from "Bin-Vendors" folder to "Bin/x64/Debug/" folder
-4. Run the Debugger and play the game
+4. Run the Debugger and play the game  
 (Optional)
 5. Copy "Assets" folder to "Bin/x64/Debug/" folder, if you want to play the game outside of Visual Studio
 
