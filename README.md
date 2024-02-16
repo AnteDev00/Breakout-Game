@@ -42,6 +42,8 @@ If you have any questions, reach out at ante-piskovic@hotmail.com
 - **Sound effects** - Licensed with [licence](https://mixkit.co/license/#sfxFree)
 - **Font** - Licensed with [licence.txt](/Assets/Fonts/NES-Chimera/license.txt)
 - **Everything Else** - Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+- **SDL librarys** - Licensed with [licence](/Include/SDL/licence.txt)
+- **TinyXML library** - Licenced with [licence](/Include/tinyXML/licence.txt)
 #
 ## Disclaimer 
 Sound effects used from https://mixkit.co are **only** used for educational purposes, and their inclusion in this project is **only** for those purposes.
