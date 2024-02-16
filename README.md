@@ -13,9 +13,10 @@ Here's what I managed to create.
 
 ## Instalation guide:
 1. Clone the repository
-2. Build Solution in Visual Studio
-3. Copy files from "Bin-Vendors" folder to "Bin/x64/Debug/" folder
-4. Run the Debugger and play the game
+2. Open the Breakout.sln file
+3. Build the Solution in Visual Studio
+4. Copy files from "Bin-Vendors" folder to "Bin/x64/Debug/" folder
+5. Run the Debugger and play the game
 
 Optionally: Copy "Assets" folder to "Bin/x64/Debug/" folder, if you want to play the game by just running the .exe
 
