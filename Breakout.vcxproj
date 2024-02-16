@@ -74,8 +74,8 @@
     <IncludePath>
     </IncludePath>
     <LibraryPath>$(LibraryPath)</LibraryPath>
-    <OutDir>bin\$(Platform)\$(Configuration)\</OutDir>
-    <IntDir>bin\$(Platform)\$(Configuration)\internediates\</IntDir>
+    <OutDir>Bin\$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>Bin\$(Platform)\$(Configuration)\internediates\</IntDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

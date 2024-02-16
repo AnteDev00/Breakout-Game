@@ -47,7 +47,7 @@ Breakout::Breakout() : m_ScreenWidth(800), m_ScreenHeight(640), m_Running(false)
 	}
 
 	// Instantiating game objects
-	m_Level = new Level(m_ScreenWidth, m_ScreenHeight ,"Bin/x64/Debug/Level1.xml");	
+	m_Level = new Level(m_ScreenWidth, m_ScreenHeight ,"Assets/Levels/Level1.xml");	
 	m_Player = new Player(m_Level->GetBoundingBox(), "Assets/Textures/Players/Player1.png"); 
 	m_Ball = new Ball(m_Level->GetBoundingBox(), "Assets/Textures/Balls/Ball1.png");
 	m_UI = new UI(*m_Level, "Assets/Fonts/NES-Chimera/NES-Chimera.ttf");
