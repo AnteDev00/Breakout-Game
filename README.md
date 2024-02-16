@@ -11,6 +11,14 @@ Here's what I managed to create.
 ![image](https://github.com/AnteDev00/Breakout/assets/151842550/097db566-f1dd-4473-8c53-7d90fc85f023)
 #
 
+## Instalation guide:
+1. Clone the repository
+2. Build Solution in Visual Studio
+3. Copy files from "Bin-Vendors" folder to "Bin/x64/Debug/" folder
+4. Run the Debugger and play the game
+(Optional)
+5. Copy "Assets" folder to "Bin/x64/Debug/" folder, if you want to play the game outside of Visual Studio
+
 ## Features:
 - 2D Physics System
 - Sound System
@@ -40,10 +48,10 @@ If you have any questions, reach out at ante-piskovic@hotmail.com
 #
 ## Licence
 - **Sound effects** - Licensed with [licence](https://mixkit.co/license/#sfxFree)
-- **Font** - Licensed with [licence.txt](/Assets/Fonts/NES-Chimera/license.txt)
-- **Everything Else** - Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
-- **SDL librarys** - Licensed with [licence](/Include/SDL/licence.txt)
+- **Nes-Chimera font** - Licensed with [licence.txt](/Assets/Fonts/NES-Chimera/license.txt)
+- **All SDL librarys** - Licensed with [licence](/Include/SDL/licence.txt)
 - **TinyXML library** - Licenced with [licence](/Include/tinyXML/licence.txt)
+- **Everything Else** - Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 #
 ## Disclaimer 
 Sound effects used from https://mixkit.co are **only** used for educational purposes, and their inclusion in this project is **only** for those purposes.
